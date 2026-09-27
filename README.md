@@ -8,7 +8,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Samsung Global Sales Intelligence Dashboard](Dashboard/Sales-Dashboard.png)
+![Samsung Global Sales Intelligence Dashboard](Dashboard/Sales-Dashboard .png)
 
 ---
 
